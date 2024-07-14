@@ -1,0 +1,7 @@
+#my_string = input("Как тебя зовут?: ")
+#len(my_string)
+#print(len(my_string))
+print( "Привет из Питера ".upper())
+print( "Привет из Питера ". lower())
+print( "Привет из Питера ".replace(" ", ""))
+print( "Привет из Питера " [15])
